@@ -1,0 +1,98 @@
+body {
+font-family: 'Poppins', sans-serif;
+text-align: center;
+
+}
+
+.navbar-collapse {
+  justify-content: flex-end;
+  background-color: #43B0F1;
+  color: #E8EEF1;
+
+}
+.top-container {
+  background-color: #43B0F1;
+  width: 100%;
+}
+.nav-item {
+  margin-left: 20px;
+  color: #E8EEF1;
+}
+
+.nav-link {
+  color: #E8EEF1;
+}
+
+.navbar {
+  height: 100px;
+  background-color: #43B0F1;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar-brand {
+  font-size: 1.5rem;
+
+  color: #E8EEF1;
+}
+
+.navigation {
+  background-color: #43B0F1;
+}
+
+
+/* About Section */
+
+#about {
+  
+  line-height: 1.5;
+  color: #1E3D58;
+  background-color: #E8EEF1;
+  width: 100%;
+}
+
+.about-para {
+  background-color: lightgray;
+  text-align: center;
+ margin: 0;
+  width: 50%;
+  font-size: 2.3rem;
+   font-weight: 200;
+   padding-top: 170px;
+   }
+
+   .btn {
+     margin-top: 20px;
+     margin-left: 0px;
+   }
+.about-img {
+  width: 50%;
+  height: auto;
+ margin: 0;
+ padding: 0;
+}
+
+.big-title {
+  padding: 30px 30px;
+  font-size: 3rem;
+  font-family: 'Open Sans', sans-serif;
+  
+}
+
+hr {
+  margin: auto;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+  background-color: #E8EEF1;
+  padding: 20px;
+ }
+
+
+
+ .second {
+   margin-top: 50px;
+ }
