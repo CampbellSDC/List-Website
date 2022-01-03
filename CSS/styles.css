@@ -80,12 +80,68 @@ text-align: center;
      margin-top: 20px;
      margin-left: 0px;
    }
-.about-img {
-  width: 33%;
-  height: auto;
- margin: 0;
- padding: 0;
+
+#image1 {
+  height: 40rem;
+  margin: auto;
+  margin-bottom: 100px;
+  display: flex-end;
 }
+
+#signUp img{
+  
+  width: 50px;
+  height: 50px;
+  margin: auto;
+  margin-bottom: 20px;
+  display: block;
+  
+
+
+}
+
+.card img{
+  
+  width: 65px;
+  height: 65px;
+  margin: auto;
+  margin-bottom: 20px;
+  display: block;
+
+}
+
+
+
+
+
+#cta {
+  margin: 40px, 20px, 40px, 20px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  display: flex;
+  justify-content: space-between;
+  
+  
+  
+}
+
+.card {
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  border-color: #43B0F1;
+  display: flex;
+  border-width: 5px;
+  border-radius: 5px;
+  margin: auto;
+  padding: 10px;
+  width: 300px;
+  height: auto;
+  
+  
+  
+  
+}
+
+
 
 .big-title {
   padding: 30px 30px;
